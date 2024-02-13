@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Verena</h1>
 <h3 align="center">I'm a seasoned freelancer bursting with creativity and expertise</h3>
 
+<p align="center">
+  <a href="https://sali.devdynasty.studio"><img src="https://i.imgur.com/4qxzFxg.gif" alt="verenacv"></a>
+</p>
+
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)

@@ -22,7 +22,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 🔭 I’m currently working on [a discord bot for GTA V Roleplay Server with a spectacular system](https://discord.gg/wQZ9WGf6xH) <br/><br/>
-🌺 My works: [S.A.L.I - San Andreas Legal Index](https://sali.devdynasty.studio/) for <a href="https://gta5majestic.com/" target="blank"><img align="center" src="https://i.imgur.com/iHqlUJe.png" alt="verenacv" height="30" width="auto" /></a>
+🌺 My works: [S.A.L.I - San Andreas Legal Index](https://sali.devdynasty.studio/) for <a href="https://gta5majestic.com/" target="blank"><img align="center" src="https://i.imgur.com/iHqlUJe.png" alt="verenacv" height="30" width="auto" /></a> used by over 300+ People
 
 ______________________
 

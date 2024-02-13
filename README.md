@@ -31,9 +31,9 @@ ______________________
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/wQZ9WGf6xH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="verenacv" height="30" width="40" /></a>
-<a href="https://devdynasty.studio" target="blank"><img align="center" src="https://i.imgur.com/QkcsBhW.png" alt="verenacv" height="30" width="auto" /></a>
-<a href="https://de.fiverr.com/corruptedveit" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/11/Fiverr-Logo.png" alt="verenacv" height="30" width="auto" /></a>
+<a href="https://discord.gg/wQZ9WGf6xH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="verenacv" height="80" width="auto" /></a>
+<a href="https://devdynasty.studio" target="blank"><img align="center" src="https://i.imgur.com/QkcsBhW.png" alt="verenacv" height="80" width="auto" /></a>
+<a href="https://de.fiverr.com/corruptedveit" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/11/Fiverr-Logo.png" alt="verenacv" height="80" width="auto" /></a>
 </p>
 
 ______________________

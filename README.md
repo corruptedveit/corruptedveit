@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Verena</h1>
 <h3 align="center">I'm a seasoned freelancer bursting with creativity and expertise</h3>
 
-- 🔭 I’m currently working on [Sentinel](https://discord.gg/wQZ9WGf6xH)
+- 🔭 I’m currently working on [a discord bot for GTA V Roleplay Server with a spectacular system](https://discord.gg/wQZ9WGf6xH)
+- 🌺 My works: [SALI](https://sali.devdynasty.studio/)
+
+- 💸 Looking for an own discord bot or discord server? Visit my [fiver](https://de.fiverr.com/corruptedveit)!
+- 🎮 Looking for an own, customizable discord bot for grand roleplay? [Check out my website!](https://devdynasty.studio/prices) 
 
 - 🌱 I’m currently learning **Next.js, alt:V Multiplayer**
 
@@ -10,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/wQZ9WGf6xH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wQZ9WGf6xH" height="30" width="40" /></a>
+<a href="[https://discord.gg/wQZ9WGf6xH](https://devdynasty.studio/)" target="blank"><img align="center" src="https://i.imgur.com/QkcsBhW.png" alt="wQZ9WGf6xH2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

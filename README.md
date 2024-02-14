@@ -48,6 +48,8 @@ ______________________
 - [Majestic RolePlay Penalty catalog](https://docs.google.com/spreadsheets/d/17elPXtKKuCPWz6Zt9c9pSgmKNXv_RDlW-yQ0C4wJSlc/) (In use)
 - [Majestic RolePlay Family & Fraction Storage and Recyling list](https://docs.google.com/spreadsheets/d/1cqlbP8J1oLEGfhP018qL35PqMmo4E5-ML1RXj0tSwdk/edit?usp=sharing)
 - [Majestic RolePlay Laws](https://docs.google.com/document/d/1Q7tzMGL-I6VlXM4bZiANTwvEFS7IeP12VLWeMQVs3Ts/edit) (In use)
+
+🐇 Contact me on discord, if you want one. <b>@verenacv<b/>
  
 ______________________
 

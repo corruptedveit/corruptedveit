@@ -20,9 +20,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-4D4D4D?style=for-the-badge&logo=minecraft&logoColor=white)
+![KubeJS](https://img.shields.io/badge/KubeJS-4A5A5B?style=for-the-badge&logo=kubejs&logoColor=white)
 
 🔭 I’m currently working on [a discord bot for GTA V Roleplay Server with a spectacular system](https://discord.gg/wQZ9WGf6xH) <br/><br/>
-🌺 My works: [S.A.L.I - San Andreas Legal Index](https://sali.sentinel-gta.cloud/) for <a href="https://gta5majestic.com/" target="blank"><img align="center" src="https://i.imgur.com/iHqlUJe.png" alt="verenacv" height="30" width="auto" /></a> used by over 300+ People daily.
+🌺 My works:
+- [S.A.L.I - San Andreas Legal Index](https://sali.sentinel-gta.cloud/) for <a href="https://gta5majestic.com/" target="blank"><img align="center" src="https://i.imgur.com/iHqlUJe.png" alt="verenacv" height="30" width="auto" /></a> used by over 300+ People daily.
+- [EntangledIntegration Addon](https://github.com/verenacv/EntangledIntegration) - A custom KubeJS script for integrating the Entangled mod into AllTheMods 10.
 
 ______________________
 
@@ -35,14 +39,10 @@ ______________________
 
 ______________________
 
-💬 Ask me about **anything** <br/>
-
-______________________
-
 🦋 Some of my designs and docs: 
 - [FIB dispatcher system](https://docs.google.com/spreadsheets/d/1a3pSPj2ErxERNKKnu6GQmlugLCZUMVek3XEj92unaNU/edit?usp=sharing)
 - [Majestic RolePlay Penalty catalog](https://docs.google.com/spreadsheets/d/17elPXtKKuCPWz6Zt9c9pSgmKNXv_RDlW-yQ0C4wJSlc/) (In use)
-- [Majestic RolePlay Family & Fraction Storage and Recyling list](https://docs.google.com/spreadsheets/d/1cqlbP8J1oLEGfhP018qL35PqMmo4E5-ML1RXj0tSwdk/edit?usp=sharing)
+- [Majestic RolePlay Family & Fraction Storage and Recycling list](https://docs.google.com/spreadsheets/d/1cqlbP8J1oLEGfhP018qL35PqMmo4E5-ML1RXj0tSwdk/edit?usp=sharing)
 - [Majestic RolePlay Laws](https://docs.google.com/document/d/1Q7tzMGL-I6VlXM4bZiANTwvEFS7IeP12VLWeMQVs3Ts/edit) (In use)
 
 🐇 Contact me on discord, if you want one. <b>@verenacv<b/>

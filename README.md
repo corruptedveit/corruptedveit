@@ -22,24 +22,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 🔭 I’m currently working on [a discord bot for GTA V Roleplay Server with a spectacular system](https://discord.gg/wQZ9WGf6xH) <br/><br/>
-🌺 My works: [S.A.L.I - San Andreas Legal Index](https://sali.devdynasty.studio/) for <a href="https://gta5majestic.com/" target="blank"><img align="center" src="https://i.imgur.com/iHqlUJe.png" alt="verenacv" height="30" width="auto" /></a> used by over 300+ People
+🌺 My works: [S.A.L.I - San Andreas Legal Index](https://sali.sentinel-gta.cloud/) for <a href="https://gta5majestic.com/" target="blank"><img align="center" src="https://i.imgur.com/iHqlUJe.png" alt="verenacv" height="30" width="auto" /></a> used by over 300+ People daily.
 
 ______________________
 
-💸 Looking for an own discord bot or discord server? Visit my [fiverr](https://de.fiverr.com/corruptedveit)! <br/>
-🎮 Looking for an own, customizable discord bot for grand roleplay? [Check out my website!](https://devdynasty.studio/prices) <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/wQZ9WGf6xH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="verenacv" height="80" width="auto" /></a>
-<a href="https://devdynasty.studio" target="blank"><img align="center" src="https://i.imgur.com/QkcsBhW.png" alt="verenacv" height="80" width="auto" /></a>
 <a href="https://de.fiverr.com/corruptedveit" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/11/Fiverr-Logo.png" alt="verenacv" height="80" width="auto" /></a>
 </p>
 
 ______________________
 
-🌱 I’m currently learning **Next.js, alt:V Multiplayer** <br/>
-💬 Ask me about **react, javascript, discord.js, openiv** <br/>
+💬 Ask me about **anything** <br/>
 
 ______________________
 

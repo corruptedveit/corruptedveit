@@ -23,9 +23,8 @@
 ![Minecraft](https://img.shields.io/badge/Minecraft-4D4D4D?style=for-the-badge&logo=minecraft&logoColor=white)
 ![KubeJS](https://img.shields.io/badge/KubeJS-4A5A5B?style=for-the-badge&logo=kubejs&logoColor=white)
 
-🔭 I’m currently working on [a discord bot for GTA V Roleplay Server with a spectacular system](https://discord.gg/wQZ9WGf6xH) <br/><br/>
 🌺 My works:
-- [S.A.L.I - San Andreas Legal Index](https://sali.sentinel-gta.cloud/) for <a href="https://gta5majestic.com/" target="blank"><img align="center" src="https://i.imgur.com/iHqlUJe.png" alt="verenacv" height="30" width="auto" /></a> used by over 300+ People daily.
+- [Sentinel - For GrandRoleplay](https://sentinel-gta.cloud/) - A fully configurable Discord bot with dashboard for the Grand RolePlay server with commands for payout, event registration, business payouts, events and more!
 - [EntangledIntegration Addon](https://github.com/verenacv/EntangledIntegration) - A custom KubeJS script for integrating the Entangled mod into AllTheMods 10.
 
 ______________________
@@ -34,8 +33,8 @@ ______________________
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/wQZ9WGf6xH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="verenacv" height="80" width="auto" /></a>
-<a href="https://de.fiverr.com/corruptedveit" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/11/Fiverr-Logo.png" alt="verenacv" height="80" width="auto" /></a>
-</p>
+<!-- <a href="https://de.fiverr.com/corruptedveit" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/11/Fiverr-Logo.png" alt="verenacv" height="80" width="auto" /></a>-->
+</p> 
 
 ______________________
 
